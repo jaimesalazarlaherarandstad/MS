@@ -1,0 +1,28 @@
+TODO ----------------
+
+General
+	Check monthly vs yearly values (esp. yearly savings Powen)
+	Change sleeps to wait for element
+	Change hardcoded coords for element locations
+	See if you still need the refresh
+	Add all location coords
+
+Repsol
+    	Extract module number and power better (use find? regex?)
+	Change waylet savings in ppt
+   
+Powen
+	See if slider element can be found based on location and some offset (which might depend on refresh also) 
+
+
+Comments -------------
+
+Naturgy
+	Comment on lack of ahorro autonconsumo (ahorro total is just ahorro excedentes)
+	Explain yearly consumption calculation
+
+Powen
+	Explain that minimum monthly bill is 100 because Powen doesn't accept 50
+
+Gesternova
+	Explain that financed monthly quote is actually aportación inicial / 12 + cuota mensual
